@@ -3,7 +3,7 @@
 [AnyPromise](https://github.com/argo-rest/any-promise) adapter for
 ES6.
 
-It is a somewhat tautological implementation, that just exposes ES6
+It is a somewhat tautological implementation that just exposes ES6
 Promises as-is.
 
 ## Usage
@@ -17,5 +17,5 @@ import {Promise} from 'any-promise-es6';
 
 function answer() {
     return Promise.resolve(42);
-}]);
+}
 ```
