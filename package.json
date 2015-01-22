@@ -1,0 +1,25 @@
+{
+  "name": "any-promise-es6",
+  "version": "0.1.0",
+  "description": "AnyPromise adapter for ES6",
+  "keywords": [
+    "promise",
+    "api",
+    "any-promise",
+    "es6"
+  ],
+  "homepage": "https://github.com/argo-rest/any-promise-es6",
+  "main": "src/any-promise-es6.js",
+  "author": "Sébastien Cevey <seb@cine7.net>",
+  "license": "Apache-2",
+  "jspm": {
+    "registry": "jspm",
+    "format": "es6",
+    "directories": {
+      "lib": "src"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.10.4"
+  }
+}
