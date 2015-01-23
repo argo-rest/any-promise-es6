@@ -1,6 +1,6 @@
 {
   "name": "any-promise-es6",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AnyPromise adapter for ES6",
   "keywords": [
     "promise",
