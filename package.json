@@ -5,10 +5,14 @@
   "keywords": [
     "promise",
     "api",
-    "any-promise",
+    "anypromise",
     "es6"
   ],
   "homepage": "https://github.com/argo-rest/any-promise-es6",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/argo-rest/any-promise-es6.git"
+  },
   "main": "src/any-promise-es6.js",
   "author": "Sébastien Cevey <seb@cine7.net>",
   "license": "Apache-2",
@@ -20,6 +24,6 @@
     }
   },
   "devDependencies": {
-    "jspm": "^0.10.4"
+    "jspm": "^0.10.6"
   }
 }
